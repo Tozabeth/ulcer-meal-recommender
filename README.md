@@ -38,5 +38,3 @@ You can upload your data, make predictions, and receive dietary suggestions thro
 ## 💡 How to Use
 Open the notebook, follow the steps, and adjust inputs for new predictions. You can also integrate the model into an API using FastAPI.
 
-## 👩🏽‍💻 Author
-Elizabeth Ogunsakin
